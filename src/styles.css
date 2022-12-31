@@ -54,6 +54,10 @@ li {
   border-radius: 10px;
 }
 
+.container {
+  margin: 0 0 40px 100px;
+}
+
 .row {
   font-size: 20px;
   font-weight: 500;
@@ -128,4 +132,10 @@ li {
 
 #high-low-temp {
   font-size: 18px;
+}
+
+#source-link {
+  position: relative;
+  top: 10px;
+  left: 200px;
 }
