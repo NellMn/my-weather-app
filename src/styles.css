@@ -1,0 +1,127 @@
+body {
+  background-image: url("images/sky.jpg");
+}
+
+h3,
+h4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  position: relative;
+  left: 100px;
+  top: 20px;
+}
+
+p {
+  position: relative;
+  bottom: 30px;
+}
+
+h5 {
+  position: relative;
+  left: 100px;
+  bottom: 30px;
+  color: rgb(102, 102, 102);
+}
+
+h3 {
+  position: relative;
+  left: 120px;
+  top: 20px;
+  color: #fff;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul {
+  position: relative;
+  top: 30px;
+  left: 150px;
+}
+
+li {
+  position: relative;
+  padding: 10px 30px;
+  background-color: rgba(255, 255, 255, 0.32);
+  margin: 0 10px 20px 0;
+  border-radius: 10px;
+}
+
+.row {
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  left: 100px;
+}
+
+.humidity {
+  position: relative;
+  top: 7px;
+}
+
+#search-form {
+  position: relative;
+  top: 40px;
+  margin-bottom: 30px;
+}
+
+#current-weather-card {
+  margin: 40px 20px 0 20px;
+  background-color: rgba(255, 255, 255, 0.38);
+}
+
+#unit-selection {
+  position: relative;
+  bottom: 20px;
+  font-size: 17px;
+  left: 5px;
+}
+
+#current-situation {
+  position: relative;
+  left: 400px;
+  bottom: 20px;
+  width: 170px;
+}
+
+#today-situation {
+  position: relative;
+  top: 10px;
+}
+
+#weather-properties-card {
+  margin: 10px 20px;
+  background-color: rgba(255, 255, 255, 0.38);
+}
+
+#humidity-icon {
+  color: #4ebfd9;
+  font-size: 20px;
+}
+
+#wind-icon {
+  width: 40px;
+}
+
+#precipitation-icon {
+  width: 40px;
+}
+
+#cloudy-icon {
+  width: 80px;
+}
+
+#partly-cloudy-icon {
+  width: 80px;
+}
+
+#clear-day-icon {
+  width: 80px;
+}
+
+#high-low-temp {
+  font-size: 18px;
+}
